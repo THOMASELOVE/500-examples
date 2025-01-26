@@ -2,6 +2,10 @@
 
 Examples for Students in PQHS/CRSP 500 with Professor Thomas Love at CWRU
 
+1. The [`toy` example](#the-toy-example)
+2. The [`lindner` example](#the-lindner-example)
+3. The [`dm2200` example](#the-dm2200-example)
+4. The [`rhc` example](#the-rhc-example)
 
 ## The `toy` example
 

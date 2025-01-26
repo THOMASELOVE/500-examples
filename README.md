@@ -4,7 +4,7 @@ Examples for Students in PQHS/CRSP 500 with Professor Thomas Love at CWRU
 
 ## The `toy` example
 
-- Here is the [link to the toy example online](https://thomaselove.github.io/500-examples/toy_analysis.html), which provided both the HTML and (downloadable) Quarto files.
+- Here is the [link to the toy example online](https://thomaselove.github.io/500-examples/toy_analysis.html), which provides both the HTML and (downloadable) Quarto files.
 - The `toy` data set is found on our [500 data page](https://github.com/THOMASELOVE/500-data/blob/master/data/toy.csv).
 
 - The Data Set is 100% fictional.

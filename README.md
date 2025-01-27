@@ -54,7 +54,10 @@ We hope you find this helpful.
 
 ## The `dm2200` example
 
-Coming soon.
+- Here is the [link to the dm2200 example online](https://thomaselove.github.io/500-examples/dm2200_analysis.html), which provides both the HTML and (downloadable) Quarto files.
+- The `dm2200` data set is found on our [500 data page](https://github.com/THOMASELOVE/500-data/blob/master/data/dm2200.csv).
+
+The task here is to fit propensity matches, using 8 different approaches.
 
 ## The `rhc` example
 

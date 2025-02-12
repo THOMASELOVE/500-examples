@@ -61,4 +61,22 @@ The task here is to fit propensity matches, using 8 different approaches.
 
 ## The `rhc` example
 
-Coming soon.
+- Here is the [link to the rhc example online](https://thomaselove.github.io/500-examples/rhc_analysis.html), which provides both the HTML and (downloadable) Quarto files.
+- The `rhc.csv` data set is found on our [500 data page](https://github.com/THOMASELOVE/500-data/blob/master/data/rhc.csv).
+- The `rhc.Rds` data set is also found on our [500 data page](https://github.com/THOMASELOVE/500-data/blob/master/data/rhc.Rds).
+
+This example uses real data from the SUPPORT study, describing some matching and weighting analyses related to the causal effects of right heart catheterization in critically ill patients.
+
+Details on the SUPPORT study may be found at
+
+- Connors Alfred F et al. 1996 [The Effectiveness of Right Heart Catheterization in the Initial Care of Critically Ill Patients](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Connors%20et%20al%201996%20JAMA%20The%20Right%20Heart%20Catheterization%20Study.pdf) *Journal of the American Medical Association*, 276: 889-897.
+
+Another article of special interest is:
+
+- Hirano K and Imbens GW 2001 [Estimation of Causal Effects using Propensity Score Weighting: An Application to Data on Right Heart Catheterization](https://github.com/THOMASELOVE/500-sources/blob/main/articles/Hirano%20and%20Imbens%202001%20Weighting%20in%20RHC.pdf) *Health Services & Outcomes Research Methodology*, 2, 259-278.
+
+## Another Example
+
+1. Another propensity analysis of these data [is available here](http://rstudio-pubs-static.s3.amazonaws.com/8257_c577ba847be34e89b85a326f20b6d6b9.html). 
+2. And here's [(part of) another one](https://ehsanx.github.io/SARGC-TIMethods/).
+
